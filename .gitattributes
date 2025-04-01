@@ -1,0 +1,2 @@
+*.iris filter=lfs diff=lfs merge=lfs -text
+*/*.iris filter=lfs diff=lfs merge=lfs -text
